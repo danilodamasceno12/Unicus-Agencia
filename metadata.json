@@ -1,0 +1,6 @@
+{
+  "name": "Únicus Agência",
+  "description": "Agência digital premium e futurista para influenciadores, focada em transformar influência em resultados financeiros reais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
